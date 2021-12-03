@@ -8,6 +8,8 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+schools_complete
+students_complete
 build/
 develop-eggs/
 dist/
