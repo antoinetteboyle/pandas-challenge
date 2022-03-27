@@ -1,7 +1,9 @@
 # pandas-challenge
-Pandas-challenge Homework Week 4 Pandas, Pandas, Pandas
+Pandas-challenge Pandas, Pandas, Pandas
 
 I have choosen PyCitySchools
+
+Analysis helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
 
 The main code written in Jupyter Notebook is in the folder called PyCitySchools.
 
